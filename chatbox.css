@@ -68,7 +68,7 @@
   height: 440px;
 
   overflow-y: scroll;
-  background-image: url(../whatsupback.png);
+  background-image: url(./whatsupback.png);
 }
 .bottom {
   cursor: pointer;
